@@ -1,1 +1,1 @@
-# templateTestProject
+# template_GradleSelenideTestProject
